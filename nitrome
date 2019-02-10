@@ -1,0 +1,84 @@
+*   [33mcommit ace1a49a16f44845a69cfb74790816109fd3bb01[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m[32m\[m  Merge: 5e07965 d80df08
+[31m|[m [32m|[m Author: NJU <1540214631@qq.com>
+[31m|[m [32m|[m Date:   Sat Feb 9 16:47:27 2019 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     conflict fixed
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit d80df08fb76d6bfbf8673ce0494e534868aab9e2[m
+[31m|[m [32m|[m Author: NJU <1540214631@qq.com>
+[31m|[m [32m|[m Date:   Sat Feb 9 16:36:13 2019 +0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     AND simple
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit 5e079652139383d480147be4528f060a806d1c51[m
+[32m|[m [32m|[m Author: NJU <1540214631@qq.com>
+[32m|[m [32m|[m Date:   Sat Feb 9 16:37:08 2019 +0800
+[32m|[m [32m|[m 
+[32m|[m [32m|[m     & simple
+[32m|[m [32m|[m 
+* [32m|[m [33mcommit 14d8ec91d642af44f84f271e451c7a497c0290d7[m[33m ([m[1;31morigin/master[m[33m)[m
+[32m|[m[32m/[m  Author: NJU <1540214631@qq.com>
+[32m|[m   Date:   Sat Feb 9 16:32:23 2019 +0800
+[32m|[m   
+[32m|[m       Sometimes delete
+[32m|[m 
+* [33mcommit d5dd8428ddf169aece02e59e292cd82a961d9649[m
+[32m|[m Author: NJU <1540214631@qq.com>
+[32m|[m Date:   Sat Feb 9 15:51:15 2019 +0800
+[32m|[m 
+[32m|[m     branch test
+[32m|[m 
+* [33mcommit aef8098d0026c162e2cb0cd1d01ea71ae530653c[m
+[32m|[m Author: NJU <1540214631@qq.com>
+[32m|[m Date:   Wed Feb 6 20:50:18 2019 +0800
+[32m|[m 
+[32m|[m     add test.txt
+[32m|[m 
+* [33mcommit 45354412181536f8f292113bca0c1efca5c7232a[m
+[32m|[m Author: NJU <1540214631@qq.com>
+[32m|[m Date:   Wed Feb 6 20:48:59 2019 +0800
+[32m|[m 
+[32m|[m     remove test.txt
+[32m|[m 
+* [33mcommit 429a4e22fca85db409a3cb7c48701b16b0abf38b[m
+[32m|[m Author: NJU <1540214631@qq.com>
+[32m|[m Date:   Wed Feb 6 20:48:13 2019 +0800
+[32m|[m 
+[32m|[m     add test.txt
+[32m|[m 
+* [33mcommit f380fb1d8e6419a4dce7780149506e6bae023abd[m
+[32m|[m Author: NJU <1540214631@qq.com>
+[32m|[m Date:   Wed Feb 6 20:24:30 2019 +0800
+[32m|[m 
+[32m|[m     append something
+[32m|[m 
+* [33mcommit e92d994f0879a5b90c94e50db333c61fb752de9f[m
+[32m|[m Author: NJU <1540214631@qq.com>
+[32m|[m Date:   Wed Feb 6 20:20:57 2019 +0800
+[32m|[m 
+[32m|[m     git tracks changes
+[32m|[m 
+* [33mcommit 1d3bb57ad4c79c3cfcaf00233bdb94cc8166454c[m
+[32m|[m Author: NJU <1540214631@qq.com>
+[32m|[m Date:   Wed Feb 6 20:03:38 2019 +0800
+[32m|[m 
+[32m|[m     understand how stage works
+[32m|[m 
+* [33mcommit c5f239a61fc7af20665376d5142ace0485d5a8d3[m
+[32m|[m Author: NJU <1540214631@qq.com>
+[32m|[m Date:   Tue Feb 5 23:30:10 2019 +0800
+[32m|[m 
+[32m|[m     append GPL
+[32m|[m 
+* [33mcommit db17cc3c178f9ed19c5093974c906235b8071909[m
+[32m|[m Author: NJU <1540214631@qq.com>
+[32m|[m Date:   Tue Feb 5 22:44:06 2019 +0800
+[32m|[m 
+[32m|[m     add distributed
+[32m|[m 
+* [33mcommit c6ee64cd2436d103da1c1ad6c289f6c71440b44d[m
+  Author: NJU <1540214631@qq.com>
+  Date:   Tue Feb 5 22:34:50 2019 +0800
+  
+      wrote a readme file
